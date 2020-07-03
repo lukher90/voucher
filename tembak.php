@@ -2,12 +2,12 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("red"," ===========================\n");
-echo color("red","| Claim Voucher Kojek|\n");
-echo color("red","| Auto create Gojek X Redeem voucher |\n");
-echo color("red","| github: lukher90 |\n");
-echo color("red","| instagram :lukmanhrmto|\n");
-echo color("red","| Creator : lukher55.com          |\n");
-echo "| Version : Voucher Kojek      |\n";
+echo color("red","| BERBURU VOUCHER |\n");
+echo color("red","| OJO LALI SEDEKAH BRO...|\n");
+echo color("red","| LUKHER55 |\n");
+echo color("red","| BISMILLAH SEK BRO...|\n");
+echo color("red","| SEMANGAT OJO LOYO |\n");
+echo "| Version : VOUCHER KOJEK      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
