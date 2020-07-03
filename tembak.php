@@ -1,8 +1,8 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("red"," ===========================\n");
-echo color("red","############### KLAIM VOUCHER LUKHER ###############\n");
+echo color("blue"," ========================================================\n");
+echo color("blue"," ################# KLAIM VOUCHER LUKHER #################\n");
 echo color("red","| JANGAN LUPA SEDEKAH YA OM...|\n");
 echo color("red","| LUKHER |\n");
 echo color("red","| BACA BISMILLAH DULU |\n");
