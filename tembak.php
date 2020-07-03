@@ -2,11 +2,11 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("red"," ===========================\n");
-echo color("red","| BERBURU VOUCHER |\n");
-echo color("red","| OJO LALI SEDEKAH BRO...|\n");
-echo color("red","| LUKHER55 |\n");
-echo color("red","| BISMILLAH SEK BRO...|\n");
-echo color("red","| SEMANGAT OJO LOYO |\n");
+echo color("red","| BERBURU VOUCHER KOJEK |\n");
+echo color("red","| JANGAN LUPA SEDEKAH OM...|\n");
+echo color("red","| LUKHER |\n");
+echo color("red","| BACA BISMILLAH DULU |\n");
+echo color("red","| TETEP SEMANGAT |\n");
 echo "| Version : VOUCHER KOJEK      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
