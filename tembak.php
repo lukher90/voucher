@@ -6,7 +6,7 @@ echo color("white","              BERBURU VOUCHER LUKHER                \n");
 echo color("white","              JANGAN LUPA BERAMAL YA             \n");
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 echo color("green"," MENU : VOUCHER LUKHER      \n");
-echo color("green"," TIME :".date('[d-m-Y] [H:i:s]')."   \n");
+echo color("green"," TIME :".date(' [d-m-Y] [H:i:s]')."   \n");
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 
 // function change(){
