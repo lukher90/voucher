@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("yellow"," ======================================================\n");
-echo color("blue"," ################ <b> KLAIM VOUCHER LUKHER </b> ################\n");
+echo color("blue"," ################  KLAIM VOUCHER LUKHER  ################\n");
 echo color("red","             JANGAN LUPA SEDEKAH YA OM           \n");
 echo color("red","                   BACA BISMILLAH DULU                   \n");
 echo color("yellow"," ======================================================\n");
