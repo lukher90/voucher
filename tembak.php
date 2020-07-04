@@ -5,15 +5,15 @@ echo color("blue","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬�
 echo color("white","              BERBURU VOUCHER LUKHER                \n");
 echo color("white","              JANGAN LUPA BERAMAL YA             \n");
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
-echo color("green","| MENU : VOUCHER LUKHER      |\n");
-echo color("green","| Time :".date('[d-m-Y] [H:i:s]')."   |\n");
+echo color("green"," MENU : VOUCHER LUKHER      \n");
+echo color("green"," TIME :".date('[d-m-Y] [H:i:s]')."   \n");
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 
 // function change(){
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
         ulang:
-        echo color("nevy","∆ Nomor : ");
+        echo color("nevy","∆ Input Nomor : ");
         // $no = trim(fgets(STDIN));
         $nohp = trim(fgets(STDIN));
         $nohp = str_replace("62","62",$nohp);
@@ -178,9 +178,9 @@ echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬�
             goto otp;
             }
          }else{
-         echo color("red","-] Nomor sudah teregistrasi");
+         echo color("red","-] Nomor Kamu Sudah Terdaftar");
          echo"\n==================================\n\n";
-         echo color("yellow","!] Silahkan registrasi kembali\n");
+         echo color("yellow","-] Ayo Cari Nomor Lain \n");
          goto ulang;
          }
 //  }
