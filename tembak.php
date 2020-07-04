@@ -4,9 +4,9 @@ include "function.php";
 echo color("blue","▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n");
 echo color("white","              BERBURU VOUCHER LUKHER                \n");
 echo color("white","              JANGAN LUPA BERAMAL YA             \n");
-echo color("white"," *\e[95m".date('[d-m-Y]                      [H:i:s]')."\e[96m*\n");
+
 echo "\e[95m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
-echo "| MENU : VOUCHER KOJEK      |\n";
+echo color(" green","| MENU : VOUCHER LUKHER      |\n");
 echo "| Time :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
