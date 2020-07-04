@@ -4,11 +4,10 @@ include "function.php";
 echo color("blue"," ======================================================\n");
 echo color("blue"," ################ KLAIM VOUCHER LUKHER ################\n");
 echo color("red","| JANGAN LUPA SEDEKAH YA OM...|\n");
-echo color("red","| LUKHER |\n");
 echo color("red","| BACA BISMILLAH DULU |\n");
-echo color("red","| TETEP SEMANGAT |\n");
+echo color("yellow"," ====================================================\n");
 echo "| MENU : VOUCHER KOJEK      |\n";
-echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
+echo "| Time :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
 // function change(){
